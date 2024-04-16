@@ -1,9 +1,11 @@
  
 ## Getting Started
+language : reactjs,type scrip,nextjs,tailwind
+Node version: v20.12.1
+How to install Project: yarn install or npm install
 
 First, run the development server:
-
-```bash
+ 
 npm run dev
 # or
 yarn dev
